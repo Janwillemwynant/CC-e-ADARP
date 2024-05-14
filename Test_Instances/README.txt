@@ -21,4 +21,4 @@ vehicles discharging rate
 weight factors
 original travel times (for Uber instances -- need to be multiplied by a factor of 2 to reproduce results)
 capacities of the charging stations
-period electricity prices   (price per minute)
+period electricity prices   (price per minute) (in the case of heterogeneous recharge rates, these period electricity prices per minute would be station-specific) 
